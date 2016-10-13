@@ -60,7 +60,7 @@ Function task() {
 1. Cut the dependences. 
 2. Each subtask reports to event emitter when it has done. It will not dictate the next step. The subTaskOne and subTaskTwo have no direct dependencies.
 3. The event emitter will handle subtasks.
-4. Error handling is simply and direct.  
+4. Error handling is simple and direct.  
 5. Programming events instead function calls.
 
 
