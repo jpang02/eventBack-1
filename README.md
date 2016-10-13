@@ -84,5 +84,5 @@ Function childTask(vars, parentEvent) {
 # event transition diagram
 
 ![alt text][sm]
-[sm]: https://www.dropbox.com/s/tkzbvp58qk3l5lo/parallel1.svg?dl=0
+[sm]: https://www.dropbox.com/s/tkzbvp58qk3l5lo/parallel1.svg
 
