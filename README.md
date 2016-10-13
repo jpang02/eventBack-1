@@ -15,7 +15,7 @@ Do we have a simple and organic asynchronous programming pattern there?
 #Paradigm shift with Asynchronous program:
 
 1. No return statement
-2. rogram flow is based on side effects.
+2. Program flow is based on side effects.
 3. Program flow is not linear any more.
 4. No call stacks links between aync calls.
 5. Very different variable scopes.
