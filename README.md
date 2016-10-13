@@ -82,4 +82,6 @@ Function childTask(vars, parentEvent) {
 }
 ```
 
-https://www.dropbox.com/s/tkzbvp58qk3l5lo/parallel1.svg?dl=0
+[sm]: https://www.dropbox.com/s/tkzbvp58qk3l5lo/parallel1.svg?dl=0
+
+[sm]: https://upload.wikimedia.org/wikipedia/commons/9/9e/Turnstile_state_machine_colored.svg "Turnstile state machine"
