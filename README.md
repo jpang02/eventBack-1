@@ -1,8 +1,8 @@
 # Node.js  EventBack Design Pattern
 
-Ask not what your callbacks can do for you
+##Ask not what your callbacks can do for you
 
-Ask what your callbacks have done for you instead
+##Ask what your callbacks have done for you instead
 
 # My motivations
 
