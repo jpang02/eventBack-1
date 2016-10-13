@@ -83,15 +83,6 @@ Function childTask(vars, parentEvent) {
 ```
 # event transition diagram
 
-
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)]</a>
-
-https://bookdown.org/yihui/bookdown/components.html
-
 ![alt text][sm]
-[sm]: https://upload.wikimedia.org/wikipedia/commons/9/9e/Turnstile_state_machine_colored.svg "Turnstile state machine"
-
-
 [sm]: https://www.dropbox.com/s/tkzbvp58qk3l5lo/parallel1.svg?dl=0
 
-[sm]: https://upload.wikimedia.org/wikipedia/commons/9/9e/Turnstile_state_machine_colored.svg "Turnstile state machine"
