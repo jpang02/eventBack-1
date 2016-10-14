@@ -84,5 +84,5 @@ Function childTask(vars, parentEvent) {
 # event transition diagram
 
 
-![para]: https://www.dropbox.com/s/tkzbvp58qk3l5lo/parallel1.svg "parallel tasks"
+![para]: https://github.com/jpang01/eventBack/blob/master/parallel_tasks_1.svg "parallel tasks"
 
