@@ -84,6 +84,6 @@ Function childTask(vars, parentEvent) {
 # event transition diagram
 
 
-![Alt text](parallel_tasks_1.pgn?raw=true "parallel task")
+![Alt text](/parallel_tasks_1.pgn?raw=true "parallel task")
 
 
