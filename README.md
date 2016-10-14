@@ -81,7 +81,7 @@ Function childTask(vars, parentEvent) {
 ……..
 }
 ```
-# event transition diagram
+# EA(event-action) diagram
 
 
 ![Alt text](/parallel_tasks_1.png?raw=true "parallel task")
