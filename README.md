@@ -81,7 +81,7 @@ Function childTask(vars, parentEvent) {
 ……..
 }
 ```
-# EA(event-action) diagram
+# EA(event-action) diagram for async_partialParallel.js
 
 
 ![Alt text](/parallel_ea.png?raw=true "parallel task")
