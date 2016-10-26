@@ -88,3 +88,6 @@ Function childTask(vars, parentEvent) {
 
 ![Alt text](/parallel_ea.png?raw=true "parallel tasks")
 
+# EA(event-action) diagram for async_parent_child.js
+![Alt text](/img/Parent-Child-EA-Diagram.png?raw=true "parent child tasks")
+
