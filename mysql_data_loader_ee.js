@@ -136,7 +136,7 @@ function process_one_file(file) {
             }
             var res = cvs.parse(line, ',');
             var ds = res.shift();
-            for( var i = 0; i++; i<ds.length) if(ds[i]=='') ds[i] = null;
+            for( var i = 0; i<ds.length; i++ ) if(ds[i]=='') ds[i] = null;
             data_info.dd.push(ds);
         });
         data_info.data_lines = null;
